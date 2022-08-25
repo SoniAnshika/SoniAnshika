@@ -4,7 +4,7 @@
 <h1 align="center">Hola, 👋, I'm Anshika Soni</h1>
 <h3 align="center">.....Focused and Quick Learning Software Engineering Student.....</h3>
 
-<img align=right alt=coding width="300X300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
+<img align=right alt=coding width="250X300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonianshika&label=Profile%20views&color=0e75b6&style=flat" alt="sonianshika" /> </p>
 
 - 🔭 I’m currently working on **BLINK-An artificial mouse**
