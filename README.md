@@ -1,7 +1,7 @@
 [![MasterHead](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hola, 👋, I'm Anshika Soni</h1>
+<h1 align="center">Hallo alle, 👋, I'm Anshika Soni</h1>
 <h3 align="center">.....Focused and Quick Learning Software Engineering Student.....</h3>
 
 <img align=right alt=coding width="300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
