@@ -1,6 +1,5 @@
 [![MasterHead](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif)](https://rishavchanda.io)
 
-
 <h1 align="center">Hallo alle, 👋, I'm Anshika Soni</h1>
 <h3 align="center">.....Focused and Quick Learning Software Engineering Student.....</h3>
 
