@@ -7,6 +7,8 @@
 <img align=right alt=coding width="300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonianshika&label=Profile%20views&color=0e75b6&style=flat" alt="sonianshika" /> </p>
 
+- 🌱 I’m currently working on **Intelligence Surveillance System**
+
 - 🌱 I’m currently learning **AI/ML, Web-Development, Data-Structures and DBMS.**
 
 - 📫 How to reach me **anshikasoni909090@gmail.com**
