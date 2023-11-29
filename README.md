@@ -7,8 +7,6 @@
 <img align=right alt=coding width="300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonianshika&label=Profile%20views&color=0e75b6&style=flat" alt="sonianshika" /> </p>
 
-- 🔭 I’m currently working on **BLINK-An artificial mouse**
-
 - 🌱 I’m currently learning **AI/ML, Web-Development, Data-Structures and DBMS.**
 
 - 📫 How to reach me **anshikasoni909090@gmail.com**
@@ -30,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonianshika&show_icons=true&locale=en&layout=compact" alt="sonianshika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonianshika&show_icons=true&locale=en" alt="sonianshika" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonianshika&show_icons=true&locale=en" alt="sonianshika" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonianshika&" alt="sonianshika" /></p>
